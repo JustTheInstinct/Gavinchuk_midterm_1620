@@ -21,7 +21,7 @@ nav {
     padding-bottom: 18px;
     border-bottom: solid #7EA8BE 6px;
     position: sticky;
-    position: -webkit-sticky; /* Safari  Access*/
+    position: -webkit-sticky; /* Safari  Access */
     top: 0;
 }
 
